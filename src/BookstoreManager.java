@@ -11,7 +11,7 @@ public class BookstoreManager {
         while (true) {
             printMenu();
             int choice = scanner.nextInt();
-            scanner.nextLine(); // Clear buffer
+            scanner.nextLine();
 
             switch (choice) {
                 case 1:
