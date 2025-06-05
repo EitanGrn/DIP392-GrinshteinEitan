@@ -1,4 +1,4 @@
-# 📘 DIP392 - Bookstore Inventory Manager by Grinshtein Eitan
+# DIP392 - Bookstore Inventory Manager by Grinshtein Eitan
  
 ---
 
